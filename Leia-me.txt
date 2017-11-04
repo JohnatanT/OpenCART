@@ -1,0 +1,2 @@
+Página da Loja aparecendo um erro por causa que a moeda padrão foi excluida.
+Não excluam a moeda padrão, primeiro mudem para outra moeda ser a padrão.
